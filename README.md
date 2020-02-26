@@ -4,4 +4,4 @@
  Students: Luis Araujo, Jose Luiz Gomes, Pedro Rendon
 
 # Info
-The system will be able to register customers, items and place orders, provide totals for orders, totals and provide values in foreign currencies using WebService https://exchangeratesapi.io.
+The system will be able to register customers, items and place orders, provide totals for orders, totals and provide values in foreign currencies using RestAPI, WebService https://exchangeratesapi.io. All the fields are validate before processing.
