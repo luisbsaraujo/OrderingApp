@@ -1,6 +1,6 @@
 # OrderingApp
- A PHP ordering app using WebServices and SQL
- This is a final project for Web Scripting class
+ A PHP ordering app using WebServices and SQL  
+ This is a final project for Web Scripting class  
  Students: Luis Araujo, Jose Luiz Gomes, Pedro Rendon
 
 # Info
